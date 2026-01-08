@@ -111,17 +111,3 @@ This architecture helps the model capture complex patterns in time-series data.
 * Deploy the model using Streamlit or Flask
 
 ---
-
-## 📜 Disclaimer
-
-This project is for **educational purposes only** and should not be used for real financial trading decisions.
-
----
-
-## 👤 Author
-
-**Prajwal Mavkar**
-
----
-
-⭐ If you found this project helpful, don’t forget to star the repository!
